@@ -38,7 +38,7 @@ O projeto também explora tecnologias e conceitos de processamento assíncrono e
 
 **Tecnologias:** Python, FastAPI, SQLAlchemy, SQLite, Pytest, Poetry, Docker, Docker Compose, Kubernetes, Redis, Celery e Kafka.
 
-###P rojeto 2 — Agência Criativa Web
+### Projeto 2 — Agência Criativa Web
 Desenvolvimento de uma página web para uma agência criativa fictícia, com foco na construção de interfaces e apresentação visual de serviços.
 
 O projeto utiliza HTML5 para estruturar o conteúdo e CSS3 para estilização dos elementos, explorando organização visual, identidade estética e composição de uma página web.
@@ -46,7 +46,7 @@ O projeto utiliza HTML5 para estruturar o conteúdo e CSS3 para estilização do
 A proposta foi exercitar habilidades de desenvolvimento Frontend, trabalhando a criatividade na construção de interfaces e a transformação de uma ideia em uma experiência visual para o usuário.
 
 **Tecnologias:** HTML5 e CSS3.
-###Projeto 3 — Agência Criativa Web com Sass
+### Projeto 3 — Agência Criativa Web com Sass
 Evolução do projeto de agência criativa, aplicando Sass como pré-processador CSS para aprimorar a organização e a manutenção dos estilos da aplicação.
 
 O desenvolvimento permitiu explorar recursos de organização de código, reutilização de estilos e estruturação de folhas de estilo, tornando o processo de desenvolvimento Frontend mais organizado e escalável.
