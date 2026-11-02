@@ -1,5 +1,7 @@
 
-# Olá! Eu sou Nicole Zimmermann / Hello I'm Nicole Zimmermann 👋 
+#### Olá! Eu sou Nicole Zimmermann / Hello I'm Nicole Zimmermann 👋 
+## Contato: nickfala71@gmail.com
+## LinkedIn: https://www.linkedin.com/in/nicolechristinyzimmermanndesouza/
 
 E vou me apresentar tanto em português como em inglês / And I will introduce myself in both Portuguese and English.
 
