@@ -38,7 +38,7 @@ O projeto também explora tecnologias e conceitos de processamento assíncrono e
 
 **Tecnologias:** Python, FastAPI, SQLAlchemy, SQLite, Pytest, Poetry, Docker, Docker Compose, Kubernetes, Redis, Celery e Kafka.
 
-###Projeto 2 — Agência Criativa Web
+###P rojeto 2 — Agência Criativa Web
 Desenvolvimento de uma página web para uma agência criativa fictícia, com foco na construção de interfaces e apresentação visual de serviços.
 
 O projeto utiliza HTML5 para estruturar o conteúdo e CSS3 para estilização dos elementos, explorando organização visual, identidade estética e composição de uma página web.
@@ -55,7 +55,7 @@ O projeto demonstra minha capacidade de evoluir soluções existentes, experimen
 
 **Tecnologias:** HTML5, CSS3 e Sass.
 
-###Projeto 4 — Cadastro de Pessoas
+### Projeto 4 — Cadastro de Pessoas
 Desenvolvimento de uma aplicação web para cadastro e gerenciamento de informações de pessoas, utilizando JavaScript para implementar a lógica e a interação com os elementos da interface.
 
 O projeto explora a manipulação do DOM, organização do código em diferentes arquivos JavaScript, utilização de classes e funções auxiliares, além da estruturação visual com HTML5 e CSS3.
