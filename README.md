@@ -26,15 +26,43 @@ Um dos meus principais pontos fortes é a resolução de problemas. Por meio dos
 Durante meus estudos, pratiquei conceitos como busca linear e binária, algoritmos de ordenação, testes automatizados e desenvolvimento de APIs. Essas experiências têm contribuído para aprimorar meu raciocínio lógico, minha autonomia e minha capacidade de encontrar soluções eficientes.
 
 ### 🚀 Projetos e experiência prática
+### Projeto 1 — API de gerenciamento de tarefas (Backend)
 
-Tenho experiência prática em projetos pessoais e exercícios de desenvolvimento, incluindo:
+Desenvolvimento de uma API REST para gerenciamento de tarefas, utilizando Python e FastAPI, com integração a banco de dados SQLite por meio do SQLAlchemy.
 
-- API de gerenciamento de tarefas desenvolvida com Python e FastAPI.
-- Exercícios de testes automatizados utilizando pytest.
-- Aplicação de cadastro de clientes.
-- Implementação e análise de algoritmos de busca e ordenação.
+O projeto demonstra conhecimentos em arquitetura Backend, criação e gerenciamento de endpoints, operações CRUD, autenticação HTTP Basic e documentação interativa com Swagger.
 
-Utilizo Git e GitHub para versionar meus códigos, acompanhar minha evolução e organizar meus projetos.
+Também foram aplicadas práticas de qualidade e infraestrutura, incluindo testes automatizados com Pytest, gerenciamento de dependências com Poetry, containerização com Docker e Docker Compose e configuração de recursos de implantação com Kubernetes.
+
+O projeto também explora tecnologias e conceitos de processamento assíncrono e mensageria, como Celery, Redis e Kafka.
+
+**Tecnologias:** Python, FastAPI, SQLAlchemy, SQLite, Pytest, Poetry, Docker, Docker Compose, Kubernetes, Redis, Celery e Kafka.
+
+###Projeto 2 — Agência Criativa Web
+Desenvolvimento de uma página web para uma agência criativa fictícia, com foco na construção de interfaces e apresentação visual de serviços.
+
+O projeto utiliza HTML5 para estruturar o conteúdo e CSS3 para estilização dos elementos, explorando organização visual, identidade estética e composição de uma página web.
+
+A proposta foi exercitar habilidades de desenvolvimento Frontend, trabalhando a criatividade na construção de interfaces e a transformação de uma ideia em uma experiência visual para o usuário.
+
+**Tecnologias:** HTML5 e CSS3.
+###Projeto 3 — Agência Criativa Web com Sass
+Evolução do projeto de agência criativa, aplicando Sass como pré-processador CSS para aprimorar a organização e a manutenção dos estilos da aplicação.
+
+O desenvolvimento permitiu explorar recursos de organização de código, reutilização de estilos e estruturação de folhas de estilo, tornando o processo de desenvolvimento Frontend mais organizado e escalável.
+
+O projeto demonstra minha capacidade de evoluir soluções existentes, experimentar novas ferramentas e aprimorar a qualidade visual e estrutural de interfaces web.
+
+**Tecnologias:** HTML5, CSS3 e Sass.
+
+###Projeto 4 — Cadastro de Pessoas
+Desenvolvimento de uma aplicação web para cadastro e gerenciamento de informações de pessoas, utilizando JavaScript para implementar a lógica e a interação com os elementos da interface.
+
+O projeto explora a manipulação do DOM, organização do código em diferentes arquivos JavaScript, utilização de classes e funções auxiliares, além da estruturação visual com HTML5 e CSS3.
+
+A aplicação demonstra conhecimentos em lógica de programação, programação orientada a objetos e desenvolvimento de funcionalidades interativas no Frontend.
+
+**Tecnologias:** JavaScript, HTML5 e CSS3.
 
 ### 🎓 Minha trajetória
 
@@ -76,16 +104,49 @@ One of my strongest skills is problem-solving. Through the exercises and challen
 
 Throughout my studies, I've practiced linear and binary search, sorting algorithms, automated testing, and API development. These experiences have helped me strengthen my logical thinking, independence, and ability to find effective solutions.
 
-### 🚀 Projects & Hands-On Experience
+### 🚀 Projects and Practical Experience
 
-I have hands-on experience with personal projects and development exercises, including:
+### Project 1 — Task Management API (Backend)
 
-- A task management API built with Python and FastAPI.
-- Automated testing exercises using pytest.
-- A customer registration application.
-- Search and sorting algorithm implementations and exercises.
+Development of a REST API for task management using Python and FastAPI, integrated with an SQLite database through SQLAlchemy.
 
-I use Git and GitHub to version-control my code, track my progress, and organize my projects.
+This project demonstrates knowledge of Backend architecture, endpoint creation and management, CRUD operations, HTTP Basic authentication, and interactive API documentation with Swagger.
+
+It also incorporates software quality and infrastructure practices, including automated testing with Pytest, dependency management with Poetry, containerization using Docker and Docker Compose, and deployment resource configuration with Kubernetes.
+
+The project also explores asynchronous processing and messaging technologies and concepts, such as Celery, Redis, and Kafka.
+
+**Technologies:** Python, FastAPI, SQLAlchemy, SQLite, Pytest, Poetry, Docker, Docker Compose, Kubernetes, Redis, Celery, and Kafka.
+
+### Project 2 — Creative Agency Website
+
+Development of a website for a fictional creative agency, focusing on interface design and the visual presentation of services.
+
+The project uses HTML5 to structure content and CSS3 to style interface elements, exploring visual organization, aesthetic identity, and web page composition.
+
+The goal was to strengthen Frontend development skills by applying creativity to interface design and transforming an idea into a visual user experience.
+
+**Technologies:** HTML5 and CSS3.
+
+### Project 3 — Creative Agency Website with Sass
+
+An improved version of the creative agency project, incorporating Sass as a CSS preprocessor to enhance the organization and maintainability of the application's styles.
+
+The development process involved exploring code organization, style reusability, and stylesheet structuring, making the Frontend development process more organized and scalable.
+
+This project demonstrates my ability to improve existing solutions, experiment with new tools, and enhance the visual quality and structure of web interfaces.
+
+**Technologies:** HTML5, CSS3, and Sass.
+
+### Project 4 — People Registration Application
+
+Development of a web application for registering and managing personal information, using JavaScript to implement application logic and interaction with interface elements.
+
+The project explores DOM manipulation, code organization across multiple JavaScript files, the use of classes and helper functions, and visual structuring with HTML5 and CSS3.
+
+The application demonstrates knowledge of programming logic, Object-Oriented Programming (OOP), and the development of interactive Frontend features.
+
+**Technologies:** JavaScript, HTML5, and CSS3.
 
 ### 🎓 My Journey
 
